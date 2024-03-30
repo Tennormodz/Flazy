@@ -57,22 +57,22 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: '' + b64data });
 
                let FLASH_MD_TEXT = `
-*_IBRAHIM-TECH JUST LOGGED IN_*
-*_Made With Ibrahim_*
+*_RHODVICK-TECH JUST LOGGED IN_*
+*_Made With Rhodvick_*
 *_Session online_*
 ______________________________________
 ╔════◇
-║ *『 IBRAHIM TECH LATEST AI 』*
+║ *『 RHODVICK TECH LATEST AI 』*
 ║ _Deploy your bot now to enjoy the commands._
 ╰═════════════⊷
 ╔═════◇
 ║  『••• OWNER INFO•••』
 ║❒ *Instagram:* _https://www.instagram.com/ibrahim_tech_official?igsh=MWt3bXY1NnVkNWd6Mg==_
-║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
-║❒ *Repo:* _https://github.com/ibrahimaitech/_
-║❒ *WaGroup:* _https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD_
-║❒ *WaChannel:* _https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD_
-║❒ *YouTube:* _https://www.youtube.com/@ibrahimaitech_
+║❒ *Owner:* _https://wa.me/254115790827
+║❒ *Repo:* _https://github.com/Rhodvick/_
+║❒ *WaGroup:* _https://chat.whatsapp.com/Dc7OCtGmAI2BNtkKbGSJyr_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D_
+║❒ *YouTube:* _https://www.youtube.com/@Rhodvick_
 ╰═════════════⊷ 
 _____________________________________
 
