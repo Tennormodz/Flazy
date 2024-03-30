@@ -63,17 +63,17 @@ router.get('/', async (req, res) => {
 *_Made With ☣_*
 ______________________________________
 ╔════◇
-║ *『 IBRAHIM TECH LATEST AI 』*
+║ *『 RHODVICK TECH LATEST AI 』*
 ║ _Deploy your bot now to enjoy the commands._
 ╰═════════════⊷
 ╔═════◇
 ║  『••• OWNER INFO•••』
 ║❒ *Instagram:* _https://www.instagram.com/ibrahim_tech_official?igsh=MWt3bXY1NnVkNWd6Mg==_
-║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
-║❒ *Repo:* _https://github.com/ibrahimaitech/_
-║❒ *WaGroup:* _https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD_
-║❒ *WaChannel:* _https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD_
-║❒ *YouTube:* _https://www.youtube.com/@ibrahimaitech_
+║❒ *Owner:* _https://wa.me/254115790827_
+║❒ *Repo:* _https://github.com/Rhodvick/_
+║❒ *WaGroup:* _https://chat.whatsapp.com/Dc7OCtGmAI2BNtkKbGSJy_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D_
+║❒ *YouTube:* _https://www.youtube.com/@Rhodvick
 ╰═════════════⊷ 
 _____________________________________
 	
