@@ -67,7 +67,7 @@ ______________________________________
 ╰═════════════⊷
 ╔═════◇
 ║  『••• OWNER INFO•••』
-║❒ *Instagram:* _https://www.instagram.com/ibrahim_tech_official?igsh=MWt3bXY1NnVkNWd6Mg==_
+║❒ *Instagram:* _https://www.instagram.com/rhodvickjunior?igsh=YzljYTk1ODg3Zg==_
 ║❒ *Owner:* _https://wa.me/254115790827_
 ║❒ *Repo:* _https://github.com/Rhodvick/_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/Dc7OCtGmAI2BNtkKbGSJyr_
