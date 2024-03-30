@@ -1,8 +1,8 @@
 {
-    "name": "Ibrahim Pairing",
-    "description": "FLASH-MD WA bot, Created by France King",
-    "logo": "https://telegra.ph/file/5cd90362ad7c6cbb60069.jpg",
-    "repository": "https://github.com/ibrahimaitech/Flash-Md-Session11/tree/main",
+    "name": "Rhodvick Pairing",
+    "description": "RHODVICK-MD WA bot, Created by Rhodvick",
+    "logo": "https://telegra.ph/file/25b60ba1474cffb21969c.jpghttps://telegra.ph/file/25b60ba1474cffb21969c.jp",
+    "repository": "https://github.com/Rhodvick/Flash-Md-Session11/tree/main",
     "keywords": ["FlashMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
