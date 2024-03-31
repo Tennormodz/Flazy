@@ -59,7 +59,7 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: '' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-*_Qr Code By Ibrahim tech_*
+*_Qr Code By Rhodvick tech_*
 *_Made With ☣_*
 ______________________________________
 ╔════◇
