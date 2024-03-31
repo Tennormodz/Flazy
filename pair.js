@@ -69,7 +69,7 @@ ______________________________________
 ║  『••• OWNER INFO•••』
 ║❒ *Instagram:* _https://www.instagram.com/rhodvickjunior?igsh=YzljYTk1ODg3Zg==_
 ║❒ *Owner:* _https://wa.me/254115790827_
-║❒ *Repo:* _https://github.com/Rhodvick/_
+║❒ *Repo:* _https://github.com/Rhodvick/RHODVICK-AI_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/Dc7OCtGmAI2BNtkKbGSJyr_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D_
 ║❒ *YouTube:* _https://www.youtube.com/@Rhodvick_
