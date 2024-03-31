@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let FLASH_MD_TEXT = `
 *_RHODVICK-TECH JUST LOGGED IN_*
-*_Made With Ibrahim_*
+*_Made by Rhodvick Junior_*
 *_Session online_*
 ______________________________________
 ╔════◇
