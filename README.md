@@ -29,7 +29,7 @@ Now Deploy
 target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 # `Owner`
 
- <a href="https://github.com/gidiowis"><img src="https://github.com/gidiowis.png" width="250" height="250" alt="France King"/></a>
+ <a href="https://github.com/gidiowis"><img src="https://github.com/gidiowis.png" width="250" height="250" alt="Tennor"/></a>
 
 # `Contributor` 
 <a href="https://github.com/Giftedmaurice"><img src="https://github.com/gidiowis.png" width="250" height="250" alt="gidiowis![1000545932](https://github.com/gidiowis/Ultraz/assets/160538903/0c4e3ae7-6db3-405b-95cf-377e97ca93e7)
