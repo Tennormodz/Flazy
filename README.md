@@ -1,4 +1,4 @@
-# Rhodvick-tech-session-generator
+# Tennor-tech-session-generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -8,11 +8,11 @@
 QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/Rhodvick">
+   <a href="https://github.com/gidiowis">
     <img src="" width="500">
      
 </a>
-   <a aria-label="QRis free to use" href="https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" target="_blank">
+   <a aria-label="QRis free to use" href="https://whatsapp.com/channel/0029VadqmtNA89MlYOW7Ep2n" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{Rhodvick}/count.svg" alt="Rhodvick:: Visitor's Count" /></p>
 
 
@@ -21,17 +21,18 @@ QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Rhodvick/TECH-SESSION/fork"><img title="WEB" src="https://img.shields.io/badge/FORK FLASH-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/gidiowis/TECH-SESSION/fork"><img title="WEB" src="https://img.shields.io/badge/FORK FLASH-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Rhodvick/Ibrahim'
+<a href='https://dashboard.heroku.com/new?template=https://github.com/gidiowis/Ibrahim'
 target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 # `Owner`
 
- <a href="https://github.com/Rhodvick"><img src="https://github.com/Rhodvick.png" width="250" height="250" alt="France King"/></a>
+ <a href="https://github.com/gidiowis"><img src="https://github.com/gidiowis.png" width="250" height="250" alt="France King"/></a>
 
 # `Contributor` 
-<a href="https://github.com/Giftedmaurice"><img src="https://github.com/Rhodvick.png" width="250" height="250" alt="Rhodvick"/></a>
+<a href="https://github.com/Giftedmaurice"><img src="https://github.com/gidiowis.png" width="250" height="250" alt="gidiowis![1000545932](https://github.com/gidiowis/Ultraz/assets/160538903/0c4e3ae7-6db3-405b-95cf-377e97ca93e7)
+"/></a>
 
    
