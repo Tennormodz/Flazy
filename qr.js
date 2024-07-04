@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: '' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-*_Qr Code By Rhodvick tech_*
+*_Qr Code By Tennor tech_*
 *_Made With ☣_*
 ______________________________________
 ╔════◇
-║ *『 RHODVICK TECH LATEST AI 』*
+║ *『 Tennor TECH LATEST AI 』*
 ║ _Deploy your bot now to enjoy the commands._
 ╰═════════════⊷
 ╔═════◇
 ║  『••• OWNER INFO•••』
-║❒ *Instagram:* _https://www.instagram.com/rhodvickjunior?igsh=YzljYTk1ODg3Zg==_
-║❒ *Owner:* _https://wa.me/254115790827_
-║❒ *Repo:* _https://github.com/Rhodvick/RHODVICK-AI_
-║❒ *WaGroup:* _https://chat.whatsapp.com/Dc7OCtGmAI2BNtkKbGSJy_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D_
-║❒ *YouTube:* _https://www.youtube.com/@Rhodvick
+║❒ *Instagram:* _https://www.instagram.com/giddy_owis_?igsh=YzZ0NDRoaXFxM2Zk==_
+║❒ *Owner:* _https://wa.me/254703726139_
+║❒ *Repo:* _https://github.com/gidiowis/-Ultraz_
+║❒ *WaGroup:* _https://chat.whatsapp.com/CPH3QIk6MMMH7iHIZTO8OE_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VadqmtNA89MlYOW7Ep2n_
+║❒ *YouTube:* _https://youtube.com/@gideonowino-gc2ry?si=_ZSNzzR9Z_JmyzEB
 ╰═════════════⊷ 
 _____________________________________
 	
