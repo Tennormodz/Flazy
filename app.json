@@ -1,9 +1,9 @@
 {
-    "name": "Rhodvick Pairing",
-    "description": "RHODVICK-MD WA bot, Created by Rhodvick",
-    "logo": "https://telegra.ph/file/25b60ba1474cffb21969c.jpghttps://telegra.ph/file/25b60ba1474cffb21969c.jp",
-    "repository": "https://github.com/Rhodvick/Flash-Md-Session11/tree/main",
-    "keywords": ["FlashMd"],
+    "name": "Ultraz Pairing",
+    "description": "Ultraz-MD WA bot, Created by Giddy Tennor",
+    "logo":https://telegra.ph/file/72d064645e1de6e96cd78.jpg",
+    "repository": "https://github.com/Ultraz/Flash-Md-Session11/tree/main",
+    "keywords": ["UltrazMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
