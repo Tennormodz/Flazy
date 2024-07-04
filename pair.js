@@ -6,7 +6,7 @@ const fs = require('fs');
 let router = express.Router()
 const pino = require("pino");
 const {
-    default: Giddy_Tennor,
+    default: France_King,
     useMultiFileAuthState,
     delay,
     makeCacheableSignalKeyStore,
@@ -26,7 +26,7 @@ router.get('/', async (req, res) => {
             saveCreds
         } = await useMultiFileAuthState('./temp/'+id)
      try {
-            let Pair_Code_By_Giddy_Tennor = Giddy_Tennor({
+            let Pair_Code_By_France_King = France_King({
                 auth: {
                     creds: state.creds,
                     keys: makeCacheableSignalKeyStore(state.keys, pino({level: "fatal"}).child({level: "fatal"})),
@@ -35,10 +35,10 @@ router.get('/', async (req, res) => {
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
                 browser: ["Chrome (Linux)", "", ""]
              });
-             if(!Pair_Code_By_Giddy_Tennor.authState.creds.registered) {
+             if(!Pair_Code_By_France_King.authState.creds.registered) {
                 await delay(1500);
                         num = num.replace(/[^0-9]/g,'');
-                            const code = await Pair_Code_By_Giddy_Tennor.requestPairingCode(num)
+                            const code = await Pair_Code_By_France_King.requestPairingCode(num)
                  if(!res.headersSent){
                  await res.send({code});
                      }
@@ -54,7 +54,7 @@ router.get('/', async (req, res) => {
                 let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
-               let session = await Pair_Code_By_Giddy_Tennor.sendMessage(Pair_Code_By_Giddy_Tennor.user.id, { text: '' + b64data });
+               let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: '' + b64data });
 
                let Ultraz_MD_TEXT = `
 *_Tennor-TECH JUST LOGGED IN_*
@@ -77,11 +77,11 @@ ______________________________________
 _____________________________________
 
 _Don't Forget To Give a Star To My Repo_`
- await Pair_Code_By_Giddy_Tennor.sendMessage(Pair_Code_By_Giddy_Tennor.user.id,{text:Ultraz_MD_TEXT},{quoted:session})
+ await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:Ultraz_MD_TEXT},{quoted:session})
  
 
         await delay(100);
-        await Pair_Code_By_Giddy_Tennor.ws.close();
+        await Pair_Code_By_France_King.ws.close();
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
