@@ -1,7 +1,7 @@
 {
     "name": "Ultraz Pairing",
     "description": "Ultraz-MD WA bot, Created by Giddy Tennor",
-    "logo":https://telegra.ph/file/72d064645e1de6e96cd78.jpg",
+    "logo":"https://telegra.ph/file/72d064645e1de6e96cd78.jpg",
     "repository": "https://github.com/Ultraz/Flash-Md-Session11/tree/main",
     "keywords": ["UltrazMd"],
     "success_url": "/", 
